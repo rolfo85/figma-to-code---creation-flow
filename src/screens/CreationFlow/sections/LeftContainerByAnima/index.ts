@@ -1,0 +1,1 @@
+export { LeftContainerByAnima } from "./LeftContainerByAnima";

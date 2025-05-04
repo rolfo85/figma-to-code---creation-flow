@@ -1,0 +1,1 @@
+export { SummaryByAnima } from "./SummaryByAnima";
